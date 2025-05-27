@@ -85,6 +85,5 @@ The **Random Forest** model outperformed Logistic Regression in this case.
 - https://github.com/sonia-james/AIML_Capstone_part1/blob/main/Fraud_Detection_phase1.ipynb
 
 
-##### Contact and Further Information
 
 
