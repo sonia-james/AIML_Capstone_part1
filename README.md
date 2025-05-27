@@ -78,8 +78,6 @@ The **Random Forest** model outperformed Logistic Regression in this case.
 - Tune hyperparameters to further improve model accuracy.  
 - Explore ensemble models to enhance predictive performance.  
 - Address class imbalance and evolving fraud patterns.  
-- Develop real-time fraud detection capabilities.
--
 
 
 ### Outline of project
